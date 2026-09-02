@@ -1,0 +1,2 @@
+# AI-Predictive-Maintainance-System-For-Electric-Vehicle
+Developed an AI-powered EV predictive maintenance system using STM32F407 &amp; FreeRTOS. Wrote custom I2C, SPI, ADC &amp; PWM drivers for MPU6050, NTC &amp; ACS712 sensors. Applied Moving Average Filter &amp; Circular Queues for data processing. Used MCP2515 CAN bus, FreeRTOS mutexes &amp; queues to stream telemetry to an IoT cloud for fault alerts.
